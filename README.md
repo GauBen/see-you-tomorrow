@@ -2,7 +2,7 @@
 
 Soyez prêts pour demain !
 
-Ce _repository_ es
+Ce _repository_ est un teaser pour le hackathon du 10 décembre 2020. Si vous arrivez à lancer le programme, alors vous avez tout ce qu'il faut pour lancer le jeu du hackathon.
 
 ## Télécharger le code
 
