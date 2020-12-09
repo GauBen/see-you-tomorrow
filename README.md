@@ -38,4 +38,4 @@ De très bons éditeurs de Python existent, vous pouvez jeter un œil à :
 - [PyCharm](https://www.jetbrains.com/pycharm/)
 - [Atom](https://atom.io/)
 
-Pour vérifier que votre environnement est configuré correctement, vous pouvez essayer d'apporter des modification au fichier `main.py`.
+Pour vérifier que votre environnement est configuré correctement, vous pouvez essayer d'apporter des modifications au fichier `main.py`.
