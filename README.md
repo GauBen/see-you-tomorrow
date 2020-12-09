@@ -1,4 +1,4 @@
-# see-you-tomorrow
+# See you tomorrow...
 
 Soyez prêts pour demain !
 
