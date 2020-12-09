@@ -9,7 +9,7 @@ Ce _repository_ est un teaser pour le hackathon du 10 décembre 2020. Si vous ar
 Via `git clone` :
 
 ```bash
-$ git clone
+$ git clone https://github.com/GauBen/see-you-tomorrow.git
 ```
 
 Ou en téléchargeant l'archive du code : https://github.com/GauBen/see-you-tomorrow/archive/main.zip
