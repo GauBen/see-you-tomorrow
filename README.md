@@ -26,7 +26,7 @@ $ python ./main.py
 PS> python.exe .\main.py
 ```
 
-S'il vous manque `tkinter`, vous devrez l'installer via `pip install tkinter`. La commande peut varier d'un système à l'autre.
+S'il vous manque `tkinter`, vous devrez l'installer. Vous pouvez trouver un tuto plutôt complet à cette adresse : https://tkdocs.com/tutorial/install.html
 
 ## Environnement de développement
 
