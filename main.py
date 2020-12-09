@@ -5,6 +5,7 @@ Si vous arrivez à lancer ce teaser, alors vous êtes prêts pour demain !
 tkinter n'est pas à connaître, c'est seulement pour l'affichage du jeu.
 """
 
+import sys
 import tkinter
 from tkinter import ttk
 
@@ -53,5 +54,7 @@ class Animation:
 
 
 if __name__ == "__main__":
+    print("Version de Python installée : " + sys.version)
+    print("Versions conseillées : 3.8 et 3.9")
     root = tkinter.Tk()
     Animation(root).mainloop()
